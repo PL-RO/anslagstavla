@@ -11,6 +11,8 @@
 
 _Here a site/blog has been created from our GitHub repository with GitHub Pages._
 
+The site is available [here](https://pl-ro.github.io/anslagstavla/) 
+
 </header>
 
 <!--
