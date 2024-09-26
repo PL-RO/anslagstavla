@@ -18,22 +18,11 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Finish
+## PL RÖ's Github pages
 
-_Congratulations friend, you've completed this course!_
+Here we post news and informtion. 
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
-
-Your blog is now live and has been deployed!
-
-Here's a recap of all the tasks you've accomplished in your repository:
-
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
-
-### What's next?
+### Other things we coud do here
 
 - Keep working on your GitHub Pages site... we love seeing what you come up with!
 - We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
