@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# PL RÖ's Github pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Here a site/blog has been created from our GitHub repository with GitHub Pages._
 
 </header>
 
@@ -18,13 +18,9 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## PL RÖ's Github pages
+## Other things we coud do here
 
-Here we post news and informtion. 
-
-### Other things we coud do here
-
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
+- Keep working on the GitHub Pages site... we love seeing what you come up with!
 - We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
 - [Take another GitHub Skills course](https://github.com/skills).
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
