@@ -1,5 +1,5 @@
 ---
-title: PL's anslagstavla
+title: PL-sällsynta diagnoser's anslagstavla
 ---
 
 
