@@ -5,9 +5,9 @@ date: 2025-02-12
 
 
 ## v.10	Hanna
-## v.11	Halfdan
+## v.11	Klara
 ## v.12	Emilia
-## v.13	Klara
+## v.13	Halfdan
 ## v.14	Anneli
 ## v.15	Josefin
 ## v.16	Påsk
